@@ -1,5 +1,5 @@
 # Use an official Node.js image based on Debian
-FROM node:18-bullseye-slim
+FROM node:20-bullseye-slim
 
 # Install Python, Tesseract OCR, Poppler (for pdf2image), and other system dependencies
 RUN apt-get update && apt-get install -y \
