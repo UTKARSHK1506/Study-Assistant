@@ -3,7 +3,6 @@
 
 UtkarshAI is an advanced, AI-powered study assistant built to transform any academic material into interactive, personalized learning modules in seconds. Powered by the ultra-fast **Groq LLaMA 3.3 engine**, UtkarshAI allows you to upload lecture slides, PDF readings, or raw text and automatically generates executive summaries, key takeaways, vocabulary flashcards, and interactive quizzes.
 
-![UtkarshAI Interface](https://img.shields.io/badge/UI-Glassmorphism-C084FC?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20Python-818CF8?style=for-the-badge)
 
 ## ✨ Core Features
