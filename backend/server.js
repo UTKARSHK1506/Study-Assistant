@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const multer = require('multer');
-const pdfParse = require('pdf-parse');
+
 const sqlite3 = require('sqlite3').verbose();
 const fs = require('fs');
 const path = require('path');
