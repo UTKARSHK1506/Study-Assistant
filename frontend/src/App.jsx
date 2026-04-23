@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import './index.css';
 
 // Base URL for backend APIs (Supports production via Vercel/Render)
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api';
+const API_URL = import.meta.env.VITE_API_URL || 'https://study-assistant-production-3b09.up.railway.app/api';
 
 export default function App() {
   const [appState, setAppState] = useState('home'); // home, login, dashboard, processing, results, analytics
